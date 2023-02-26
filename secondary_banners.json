@@ -1,0 +1,177 @@
+ [
+    {
+      "id": 11,
+      "attributes": {
+        "page_name": "warranty secondary banner",
+        "createdAt": "2022-10-13T16:52:30.199Z",
+        "updatedAt": "2023-01-18T15:00:17.136Z",
+        "publishedAt": "2022-10-13T11:40:07.650Z",
+        "page_content": null,
+        "video_position": null,
+        "video_url": null,
+        "title": null,
+        "description": null,
+        "impression_type": null,
+        "impression_src": null,
+        "schedule_publish": null,
+        "publish_end": null,
+        "publish_start": null,
+        "city_state": "\"\"",
+        "select_cities": null,
+        "states": null,
+        "excludecitystate": "\"\"",
+        "excluding_states": null,
+        "excluding_cities": null,
+        "banner_type": "secondary_banner",
+        "banner_image": {
+          "data": [
+            {
+              "id": 9675,
+              "attributes": {
+                "name": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+                "alternativeText": "null",
+                "caption": "null",
+                "width": 320,
+                "height": 355,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "https://images.carandbike.com/cms/strapi-banner/11/thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+                    "hash": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+                    "path": null,
+                    "size": 6.66,
+                    "width": 141,
+                    "height": 156
+                  }
+                },
+                "hash": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 23.39,
+                "url": "https://images.carandbike.com/cms/strapi-banner/11/Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+                "previewUrl": "null",
+                "provider": "aws-s3-cdn-acl-enabled",
+                "provider_metadata": null,
+                "createdAt": "2023-02-05T00:00:00.000Z",
+                "updatedAt": "2023-02-05T00:00:00.000Z"
+              }
+            }
+          ]
+        },
+        "heading": [],
+        "link": [
+          {
+            "id": 1010,
+            "title": "Open Link",
+            "type": "link",
+            "slug": null,
+            "url": null,
+            "data_end_point": null,
+            "config_end_point": null,
+            "category_url": null
+          }
+        ],
+        "video": {
+          "data": null
+        },
+        "cnb_categories": {
+          "data": [
+            {
+              "id": 162,
+              "attributes": {
+                "title": "Warranty Secondary Desktop",
+                "slug": "warranty-secondary-desktop",
+                "createdAt": "2023-01-18T10:16:07.073Z",
+                "updatedAt": "2023-01-18T10:16:07.073Z"
+              }
+            }
+          ]
+        },
+        "page_configs": {
+          "data": []
+        },
+        "platforms": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 75,
+      "attributes": {
+        "page_name": "Comparison Bike Expert Review",
+        "createdAt": "2022-10-13T16:52:30.478Z",
+        "updatedAt": "2023-01-18T15:03:54.430Z",
+        "publishedAt": "2022-10-13T11:40:07.650Z",
+        "page_content": null,
+        "video_position": null,
+        "video_url": null,
+        "title": null,
+        "description": null,
+        "impression_type": null,
+        "impression_src": null,
+        "schedule_publish": null,
+        "publish_end": null,
+        "publish_start": null,
+        "city_state": "\"\"",
+        "select_cities": null,
+        "states": null,
+        "excludecitystate": "\"\"",
+        "excluding_states": null,
+        "excluding_cities": null,
+        "banner_type": "secondary_banner",
+        "banner_image": {
+          "data": [
+            {
+              "id": 9675,
+              "attributes": {
+                "name": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+                "alternativeText": "null",
+                "caption": "null",
+                "width": 320,
+                "height": 355,
+                "formats": {
+                  "thumbnail": {
+                    "ext": ".jpg",
+                    "url": "https://images.carandbike.com/cms/strapi-banner/11/thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+                    "hash": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+                    "mime": "image/jpeg",
+                    "name": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+                    "path": null,
+                    "size": 6.66,
+                    "width": 141,
+                    "height": 156
+                  }
+                },
+                "hash": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+                "ext": ".jpg",
+                "mime": "image/jpeg",
+                "size": 23.39,
+                "url": "https://images.carandbike.com/cms/strapi-banner/11/Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+                "previewUrl": "null",
+                "provider": "aws-s3-cdn-acl-enabled",
+                "provider_metadata": null,
+                "createdAt": "2023-02-05T00:00:00.000Z",
+                "updatedAt": "2023-02-05T00:00:00.000Z"
+              }
+            }
+          ]
+        },
+        "heading": [],
+        "link": [],
+        "video": {
+          "data": null
+        },
+        "cnb_categories": {
+          "data": []
+        },
+        "page_configs": {
+          "data": []
+        },
+        "platforms": {
+          "data": []
+        }
+      }
+    }
+  ]
