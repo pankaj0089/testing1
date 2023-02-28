@@ -1,0 +1,2228 @@
+[
+  {
+    "id": 248,
+    "page_name": "New Bike Listing Secondary Banner",
+    "createdAt": "2023-02-14T06:08:34.624Z",
+    "updatedAt": "2023-02-16T05:12:21.678Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10226,
+        "name": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+        "alternativeText": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+        "caption": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+        "width": 828,
+        "height": 1152,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/large_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d.jpg",
+            "hash": "large_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d",
+            "mime": "image/jpeg",
+            "name": "large_Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+            "path": null,
+            "size": 109.75,
+            "width": 719,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d.jpg",
+            "hash": "small_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d",
+            "mime": "image/jpeg",
+            "name": "small_Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+            "path": null,
+            "size": 35.3,
+            "width": 359,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d.jpg",
+            "hash": "medium_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d",
+            "mime": "image/jpeg",
+            "name": "medium_Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+            "path": null,
+            "size": 68.17,
+            "width": 539,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d.jpg",
+            "hash": "thumbnail_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (828 × 1152px).jpg",
+            "path": null,
+            "size": 5.13,
+            "width": 112,
+            "height": 156
+          }
+        },
+        "hash": "Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 142.6,
+        "url": "https://images.carandbike.com/wms/Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_828_1152px_e05c2e5e4d.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-15T05:39:59.779Z",
+        "updatedAt": "2023-02-15T05:39:59.779Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1168,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 2
+    },
+    "platforms": {
+      "count": 2
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 247,
+    "page_name": "Article Listing Secondary Banner",
+    "createdAt": "2023-02-14T06:03:06.402Z",
+    "updatedAt": "2023-02-16T05:11:36.305Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10218,
+        "name": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (5).jpg",
+        "alternativeText": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (5).jpg",
+        "caption": "Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (5).jpg",
+        "width": 276,
+        "height": 384,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_5_e41bb99493.jpg",
+            "hash": "thumbnail_Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_5_e41bb99493",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Employees_Creativee_PrintA5_Vertical_2ft-x-3 ft (276 × 384px) (5).jpg",
+            "path": null,
+            "size": 5.11,
+            "width": 112,
+            "height": 156
+          }
+        },
+        "hash": "Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_5_e41bb99493",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 22.32,
+        "url": "https://images.carandbike.com/wms/Employees_Creativee_Print_A5_Vertical_2ft_x_3_ft_276_384px_5_e41bb99493.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-14T06:02:08.084Z",
+        "updatedAt": "2023-02-14T06:02:08.084Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1169,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 2
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 246,
+    "page_name": "Article Detail Page Secondary Banner",
+    "createdAt": "2023-02-14T05:33:26.654Z",
+    "updatedAt": "2023-02-16T05:11:48.939Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10217,
+        "name": "Secondary Banner (2).jpg",
+        "alternativeText": "Secondary Banner (2).jpg",
+        "caption": "Secondary Banner (2).jpg",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_2_7c5c601a0b.jpg",
+            "hash": "small_Secondary_Banner_2_7c5c601a0b",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Banner (2).jpg",
+            "path": null,
+            "size": 46.29,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_2_7c5c601a0b.jpg",
+            "hash": "medium_Secondary_Banner_2_7c5c601a0b",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Banner (2).jpg",
+            "path": null,
+            "size": 83.77,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_2_7c5c601a0b.jpg",
+            "hash": "thumbnail_Secondary_Banner_2_7c5c601a0b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Banner (2).jpg",
+            "path": null,
+            "size": 7.44,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_2_7c5c601a0b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 129.9,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_2_7c5c601a0b.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-14T05:32:54.854Z",
+        "updatedAt": "2023-02-14T05:45:58.093Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1167,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 2
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 240,
+    "page_name": "New Car Listing - Sell Car Inspection ",
+    "createdAt": "2023-02-13T07:42:04.796Z",
+    "updatedAt": "2023-02-15T05:56:30.197Z",
+    "publishedAt": "2023-02-13T07:42:10.238Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10227,
+        "name": "MicrosoftTeams-image (1).png",
+        "alternativeText": "MicrosoftTeams-image (1).png",
+        "caption": "MicrosoftTeams-image (1).png",
+        "width": 828,
+        "height": 1152,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/large_Microsoft_Teams_image_1_b79edd7062.png",
+            "hash": "large_Microsoft_Teams_image_1_b79edd7062",
+            "mime": "image/png",
+            "name": "large_MicrosoftTeams-image (1).png",
+            "path": null,
+            "size": 118.61,
+            "width": 719,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Microsoft_Teams_image_1_b79edd7062.png",
+            "hash": "small_Microsoft_Teams_image_1_b79edd7062",
+            "mime": "image/png",
+            "name": "small_MicrosoftTeams-image (1).png",
+            "path": null,
+            "size": 39.29,
+            "width": 359,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Microsoft_Teams_image_1_b79edd7062.png",
+            "hash": "medium_Microsoft_Teams_image_1_b79edd7062",
+            "mime": "image/png",
+            "name": "medium_MicrosoftTeams-image (1).png",
+            "path": null,
+            "size": 75.21,
+            "width": 539,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Microsoft_Teams_image_1_b79edd7062.png",
+            "hash": "thumbnail_Microsoft_Teams_image_1_b79edd7062",
+            "mime": "image/png",
+            "name": "thumbnail_MicrosoftTeams-image (1).png",
+            "path": null,
+            "size": 5.87,
+            "width": 112,
+            "height": 156
+          }
+        },
+        "hash": "Microsoft_Teams_image_1_b79edd7062",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 153.67,
+        "url": "https://images.carandbike.com/wms/Microsoft_Teams_image_1_b79edd7062.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-15T05:56:27.522Z",
+        "updatedAt": "2023-02-15T05:56:27.522Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1160,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 235,
+    "page_name": "Listing Used Car - Secondary Banner Msite",
+    "createdAt": "2023-02-09T12:38:57.835Z",
+    "updatedAt": "2023-02-16T05:12:12.214Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10193,
+        "name": "Secondary Post (828 × 1152px) (3).jpg",
+        "alternativeText": "Secondary Post (828 × 1152px) (3).jpg",
+        "caption": "Secondary Post (828 × 1152px) (3).jpg",
+        "width": 828,
+        "height": 1152,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/large_Secondary_Post_828_1152px_3_173d8f3f28.jpg",
+            "hash": "large_Secondary_Post_828_1152px_3_173d8f3f28",
+            "mime": "image/jpeg",
+            "name": "large_Secondary Post (828 × 1152px) (3).jpg",
+            "path": null,
+            "size": 76.86,
+            "width": 719,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Post_828_1152px_3_173d8f3f28.jpg",
+            "hash": "small_Secondary_Post_828_1152px_3_173d8f3f28",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Post (828 × 1152px) (3).jpg",
+            "path": null,
+            "size": 27.82,
+            "width": 359,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Post_828_1152px_3_173d8f3f28.jpg",
+            "hash": "medium_Secondary_Post_828_1152px_3_173d8f3f28",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Post (828 × 1152px) (3).jpg",
+            "path": null,
+            "size": 51.1,
+            "width": 539,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Post_828_1152px_3_173d8f3f28.jpg",
+            "hash": "thumbnail_Secondary_Post_828_1152px_3_173d8f3f28",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Post (828 × 1152px) (3).jpg",
+            "path": null,
+            "size": 4.64,
+            "width": 112,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Post_828_1152px_3_173d8f3f28",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 94.77,
+        "url": "https://images.carandbike.com/wms/Secondary_Post_828_1152px_3_173d8f3f28.jpg",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-10T12:01:03.907Z",
+        "updatedAt": "2023-02-10T12:01:03.907Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1154,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 234,
+    "page_name": "Listing Used Car - Secondary Banner Desktop",
+    "createdAt": "2023-02-09T11:43:43.368Z",
+    "updatedAt": "2023-02-16T05:12:02.219Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10186,
+        "name": "Secondary Post (828 × 1152px) (2).jpg",
+        "alternativeText": "Secondary Post (828 × 1152px) (2).jpg",
+        "caption": "Secondary Post (828 × 1152px) (2).jpg",
+        "width": 828,
+        "height": 1152,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/large_Secondary_Post_828_1152px_2_9ff15ce1a5.jpg",
+            "hash": "large_Secondary_Post_828_1152px_2_9ff15ce1a5",
+            "mime": "image/jpeg",
+            "name": "large_Secondary Post (828 × 1152px) (2).jpg",
+            "path": null,
+            "size": 75.71,
+            "width": 719,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Post_828_1152px_2_9ff15ce1a5.jpg",
+            "hash": "small_Secondary_Post_828_1152px_2_9ff15ce1a5",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Post (828 × 1152px) (2).jpg",
+            "path": null,
+            "size": 27.96,
+            "width": 359,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Post_828_1152px_2_9ff15ce1a5.jpg",
+            "hash": "medium_Secondary_Post_828_1152px_2_9ff15ce1a5",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Post (828 × 1152px) (2).jpg",
+            "path": null,
+            "size": 50.65,
+            "width": 539,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Post_828_1152px_2_9ff15ce1a5.jpg",
+            "hash": "thumbnail_Secondary_Post_828_1152px_2_9ff15ce1a5",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Post (828 × 1152px) (2).jpg",
+            "path": null,
+            "size": 4.74,
+            "width": 112,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Post_828_1152px_2_9ff15ce1a5",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 87.55,
+        "url": "https://images.carandbike.com/wms/Secondary_Post_828_1152px_2_9ff15ce1a5.jpg",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-09T11:42:24.062Z",
+        "updatedAt": "2023-02-09T11:42:24.062Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1153,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 204,
+    "page_name": "Carkhaana secondary banner desktop",
+    "createdAt": "2023-02-04T07:53:35.668Z",
+    "updatedAt": "2023-02-04T07:53:37.416Z",
+    "publishedAt": "2023-02-04T07:53:37.411Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10138,
+        "name": "Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+        "alternativeText": "Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+        "caption": "Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+        "width": 1200,
+        "height": 1200,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/large_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a.jpg",
+            "hash": "large_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a",
+            "mime": "image/jpeg",
+            "name": "large_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+            "path": null,
+            "size": 172.39,
+            "width": 1000,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a.jpg",
+            "hash": "small_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a",
+            "mime": "image/jpeg",
+            "name": "small_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+            "path": null,
+            "size": 53.67,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a.jpg",
+            "hash": "medium_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a",
+            "mime": "image/jpeg",
+            "name": "medium_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+            "path": null,
+            "size": 108.17,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a.jpg",
+            "hash": "thumbnail_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e.jpg",
+            "path": null,
+            "size": 7.08,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 232.26,
+        "url": "https://images.carandbike.com/wms/Reserve_A_Used_Car_Banner_Final_1_2022_10_21_T04_29_57_753_Z_96c22f9c4e_6a3889d06a.jpg",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-04T07:53:19.827Z",
+        "updatedAt": "2023-02-04T07:53:19.827Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    }
+  },
+  {
+    "id": 203,
+    "page_name": "New car Listing - Warranty secondary banner",
+    "createdAt": "2023-01-30T11:36:13.835Z",
+    "updatedAt": "2023-02-14T09:07:24.714Z",
+    "publishedAt": "2023-01-31T05:36:52.099Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10127,
+        "name": "MicrosoftTeams-image (615).png",
+        "alternativeText": "MicrosoftTeams-image (615).png",
+        "caption": "MicrosoftTeams-image (615).png",
+        "width": 886,
+        "height": 1280,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/large_Microsoft_Teams_image_615_5852bbc27b.png",
+            "hash": "large_Microsoft_Teams_image_615_5852bbc27b",
+            "mime": "image/png",
+            "name": "large_MicrosoftTeams-image (615).png",
+            "path": null,
+            "size": 78.91,
+            "width": 692,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Microsoft_Teams_image_615_5852bbc27b.png",
+            "hash": "small_Microsoft_Teams_image_615_5852bbc27b",
+            "mime": "image/png",
+            "name": "small_MicrosoftTeams-image (615).png",
+            "path": null,
+            "size": 28.18,
+            "width": 346,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Microsoft_Teams_image_615_5852bbc27b.png",
+            "hash": "medium_Microsoft_Teams_image_615_5852bbc27b",
+            "mime": "image/png",
+            "name": "medium_MicrosoftTeams-image (615).png",
+            "path": null,
+            "size": 51.75,
+            "width": 519,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Microsoft_Teams_image_615_5852bbc27b.png",
+            "hash": "thumbnail_Microsoft_Teams_image_615_5852bbc27b",
+            "mime": "image/png",
+            "name": "thumbnail_MicrosoftTeams-image (615).png",
+            "path": null,
+            "size": 4.75,
+            "width": 108,
+            "height": 156
+          }
+        },
+        "hash": "Microsoft_Teams_image_615_5852bbc27b",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 110.8,
+        "url": "https://images.carandbike.com/wms/Microsoft_Teams_image_615_5852bbc27b.png",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-01-30T11:34:32.275Z",
+        "updatedAt": "2023-01-30T11:34:32.275Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1099,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": {
+      "id": 1,
+      "Number": 1,
+      "createdAt": "2023-01-23T08:22:18.903Z",
+      "updatedAt": "2023-01-23T08:22:18.903Z"
+    },
+    "createdBy": {
+      "id": 48,
+      "firstname": "Pooja",
+      "lastname": "Mishra",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    }
+  },
+  {
+    "id": 178,
+    "page_name": "Secondary Banner Expo Msite",
+    "createdAt": "2023-01-23T10:32:10.065Z",
+    "updatedAt": "2023-01-23T10:32:14.144Z",
+    "publishedAt": "2023-01-23T10:32:14.135Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 9975,
+        "name": "Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+        "alternativeText": "Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+        "caption": "Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+        "width": 2000,
+        "height": 2000,
+        "formats": {
+          "large": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/large_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d.png",
+            "hash": "large_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d",
+            "mime": "image/png",
+            "name": "large_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+            "path": null,
+            "size": 132.58,
+            "width": 1000,
+            "height": 1000
+          },
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d.png",
+            "hash": "small_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d",
+            "mime": "image/png",
+            "name": "small_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+            "path": null,
+            "size": 47.12,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d.png",
+            "hash": "medium_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d",
+            "mime": "image/png",
+            "name": "medium_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+            "path": null,
+            "size": 86.16,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d.png",
+            "hash": "thumbnail_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d",
+            "mime": "image/png",
+            "name": "thumbnail_Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54.png",
+            "path": null,
+            "size": 7.04,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 348.83,
+        "url": "https://images.carandbike.com/wms/Microsoft_Teams_image_105_2023_01_13_T06_41_54_411_Z_6565c9ad54_5fa1796d7d.png",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-01-23T10:30:44.511Z",
+        "updatedAt": "2023-01-23T10:30:44.511Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 52,
+      "firstname": "praveen",
+      "lastname": "kumar",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 52,
+      "firstname": "praveen",
+      "lastname": "kumar",
+      "username": null
+    }
+  },
+  {
+    "id": 175,
+    "page_name": "secondary banner",
+    "createdAt": "2023-01-20T12:09:03.149Z",
+    "updatedAt": "2023-01-20T12:09:31.643Z",
+    "publishedAt": "2023-01-20T12:09:31.637Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": null,
+    "heading": [],
+    "link": [],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    }
+  },
+  {
+    "id": 169,
+    "page_name": "Warranty Secondary Banner Desktop",
+    "createdAt": "2023-01-18T10:12:20.125Z",
+    "updatedAt": "2023-01-31T05:50:22.705Z",
+    "publishedAt": "2023-01-18T10:14:58.943Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": "Banner",
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 9898,
+        "name": "Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+        "alternativeText": "Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+        "caption": "Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+        "width": 2000,
+        "height": 1000,
+        "formats": {
+          "large": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/large_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b.jpg",
+            "hash": "large_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b",
+            "mime": "image/jpeg",
+            "name": "large_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+            "path": null,
+            "size": 71.48,
+            "width": 1000,
+            "height": 500
+          },
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b.jpg",
+            "hash": "small_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b",
+            "mime": "image/jpeg",
+            "name": "small_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+            "path": null,
+            "size": 22.7,
+            "width": 500,
+            "height": 250
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b.jpg",
+            "hash": "medium_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+            "path": null,
+            "size": 44.68,
+            "width": 750,
+            "height": 375
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b.jpg",
+            "hash": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac.jpg",
+            "path": null,
+            "size": 7.42,
+            "width": 245,
+            "height": 123
+          }
+        },
+        "hash": "Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 217.68,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_Cn_B_Warranty_Pg_2kx1k_px_2022_11_22_T11_49_13_267_Z_c48ab7b1b4_1d1c5cefac_370855d93b.jpg",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-01-18T10:11:27.046Z",
+        "updatedAt": "2023-01-18T10:11:27.046Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1034,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 12,
+      "firstname": "ankul",
+      "lastname": "kumar",
+      "username": "ankul"
+    },
+    "updatedBy": {
+      "id": 12,
+      "firstname": "ankul",
+      "lastname": "kumar",
+      "username": "ankul"
+    }
+  },
+  {
+    "id": 160,
+    "page_name": "Sell Car Secondary Banner Msite",
+    "createdAt": "2022-11-26T16:21:36.422Z",
+    "updatedAt": "2023-02-20T05:45:03.269Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10245,
+        "name": "MicrosoftTeams-image (40).png",
+        "alternativeText": "MicrosoftTeams-image (40).png",
+        "caption": "MicrosoftTeams-image (40).png",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Microsoft_Teams_image_40_402efad469.png",
+            "hash": "small_Microsoft_Teams_image_40_402efad469",
+            "mime": "image/png",
+            "name": "small_MicrosoftTeams-image (40).png",
+            "path": null,
+            "size": 283.47,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Microsoft_Teams_image_40_402efad469.png",
+            "hash": "medium_Microsoft_Teams_image_40_402efad469",
+            "mime": "image/png",
+            "name": "medium_MicrosoftTeams-image (40).png",
+            "path": null,
+            "size": 596,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Microsoft_Teams_image_40_402efad469.png",
+            "hash": "thumbnail_Microsoft_Teams_image_40_402efad469",
+            "mime": "image/png",
+            "name": "thumbnail_MicrosoftTeams-image (40).png",
+            "path": null,
+            "size": 38.71,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Microsoft_Teams_image_40_402efad469",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 612.99,
+        "url": "https://images.carandbike.com/wms/Microsoft_Teams_image_40_402efad469.png",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-20T05:35:13.305Z",
+        "updatedAt": "2023-02-20T05:35:13.305Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1012,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": {
+      "id": 8,
+      "firstname": "Surya",
+      "lastname": "singh",
+      "username": null
+    },
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 75,
+    "page_name": "Magazine Desktop Secondary Banner",
+    "createdAt": "2022-10-13T16:52:30.478Z",
+    "updatedAt": "2023-02-16T07:51:08.457Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": "Banner",
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10196,
+        "name": "Creative1_CallCentre.png",
+        "alternativeText": "Creative1_CallCentre.png",
+        "caption": "Creative1_CallCentre.png",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Creative1_Call_Centre_b5b1ef89f1.png",
+            "hash": "small_Creative1_Call_Centre_b5b1ef89f1",
+            "mime": "image/png",
+            "name": "small_Creative1_CallCentre.png",
+            "path": null,
+            "size": 515.16,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Creative1_Call_Centre_b5b1ef89f1.png",
+            "hash": "medium_Creative1_Call_Centre_b5b1ef89f1",
+            "mime": "image/png",
+            "name": "medium_Creative1_CallCentre.png",
+            "path": null,
+            "size": 1143.61,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Creative1_Call_Centre_b5b1ef89f1.png",
+            "hash": "thumbnail_Creative1_Call_Centre_b5b1ef89f1",
+            "mime": "image/png",
+            "name": "thumbnail_Creative1_CallCentre.png",
+            "path": null,
+            "size": 59.02,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Creative1_Call_Centre_b5b1ef89f1",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 1279.34,
+        "url": "https://images.carandbike.com/wms/Creative1_Call_Centre_b5b1ef89f1.png",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T04:50:12.259Z",
+        "updatedAt": "2023-02-13T04:50:12.259Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1031,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 58,
+    "page_name": "Warranty Secondary Banner Msite",
+    "createdAt": "2022-10-13T16:52:30.398Z",
+    "updatedAt": "2023-02-02T11:55:35.209Z",
+    "publishedAt": "2022-10-13T11:40:07.650Z",
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 9675,
+        "name": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+        "alternativeText": "null",
+        "caption": "null",
+        "width": 320,
+        "height": 355,
+        "formats": {
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/cms/strapi-banner/11/thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+            "hash": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023-01-05T08:22:57.515Z.jpg",
+            "path": null,
+            "size": 6.66,
+            "width": 141,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 23.39,
+        "url": "https://images.carandbike.com/cms/strapi-banner/11/Secondary_Banner_Cn_B_Warranty_Pg_1000px_320_355_px_2022_09_30_T10_37_21_831_Z_609a3e5fdd_2022_10_31_T05_39_28_740_Z_de1b499046_2023_01_05_T08_22_57_515_Z_0304a6663e.jpg",
+        "previewUrl": "null",
+        "provider": "aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-05T00:00:00.000Z",
+        "updatedAt": "2023-02-05T00:00:00.000Z",
+        "folderPath": null,
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1035,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 12,
+      "firstname": "ankul",
+      "lastname": "kumar",
+      "username": "ankul"
+    }
+  },
+  {
+    "id": 27,
+    "page_name": "Magazine Msite Secondary Banner",
+    "createdAt": "2022-10-13T16:52:30.264Z",
+    "updatedAt": "2023-02-16T07:50:59.435Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": "banner",
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10197,
+        "name": "Creative1_CallCentre.png",
+        "alternativeText": "Creative1_CallCentre.png",
+        "caption": "Creative1_CallCentre.png",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/small_Creative1_Call_Centre_539c9b56cd.png",
+            "hash": "small_Creative1_Call_Centre_539c9b56cd",
+            "mime": "image/png",
+            "name": "small_Creative1_CallCentre.png",
+            "path": null,
+            "size": 515.16,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/medium_Creative1_Call_Centre_539c9b56cd.png",
+            "hash": "medium_Creative1_Call_Centre_539c9b56cd",
+            "mime": "image/png",
+            "name": "medium_Creative1_CallCentre.png",
+            "path": null,
+            "size": 1143.61,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".png",
+            "url": "https://images.carandbike.com/wms/thumbnail_Creative1_Call_Centre_539c9b56cd.png",
+            "hash": "thumbnail_Creative1_Call_Centre_539c9b56cd",
+            "mime": "image/png",
+            "name": "thumbnail_Creative1_CallCentre.png",
+            "path": null,
+            "size": 59.02,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Creative1_Call_Centre_539c9b56cd",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 1279.34,
+        "url": "https://images.carandbike.com/wms/Creative1_Call_Centre_539c9b56cd.png",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T04:50:44.529Z",
+        "updatedAt": "2023-02-13T04:50:44.529Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1019,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 17,
+    "page_name": "New Bike Msite Secondary Banner",
+    "createdAt": "2022-10-13T16:52:30.233Z",
+    "updatedAt": "2023-02-16T07:51:23.043Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10212,
+        "name": "Secondary Banner.jpg",
+        "alternativeText": "Secondary Banner.jpg",
+        "caption": "Secondary Banner.jpg",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "small_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Banner.jpg",
+            "path": null,
+            "size": 32.51,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "medium_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Banner.jpg",
+            "path": null,
+            "size": 57.2,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "thumbnail_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Banner.jpg",
+            "path": null,
+            "size": 5.87,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_a713dde8d7",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 86.79,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_a713dde8d7.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T11:39:00.336Z",
+        "updatedAt": "2023-02-14T07:04:43.518Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1011,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 13,
+    "page_name": "Used Car Secondary Banner Msite",
+    "createdAt": "2022-10-13T16:52:30.220Z",
+    "updatedAt": "2023-02-16T05:19:32.341Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": null,
+    "heading": [],
+    "link": [
+      {
+        "id": 1010,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": [
+      {
+        "id": 10203,
+        "name": "Secondary Banner (5).mp4",
+        "alternativeText": "Secondary Banner (5).mp4",
+        "caption": "Secondary Banner (5).mp4",
+        "width": null,
+        "height": null,
+        "formats": null,
+        "hash": "Secondary_Banner_5_2fe7e15946",
+        "ext": ".mp4",
+        "mime": "video/mp4",
+        "size": 2961.99,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_5_2fe7e15946.mp4",
+        "previewUrl": null,
+        "provider": "aws-s3",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T08:08:19.717Z",
+        "updatedAt": "2023-02-13T08:08:19.717Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 11,
+    "page_name": "New Bike Desktop Secondary Banner",
+    "createdAt": "2022-10-13T16:52:30.199Z",
+    "updatedAt": "2023-02-16T07:51:15.879Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10211,
+        "name": "Secondary Banner.jpg",
+        "alternativeText": "Secondary Banner.jpg",
+        "caption": "Secondary Banner.jpg",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_300fec5653.jpg",
+            "hash": "small_Secondary_Banner_300fec5653",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Banner.jpg",
+            "path": null,
+            "size": 32.51,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_300fec5653.jpg",
+            "hash": "medium_Secondary_Banner_300fec5653",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Banner.jpg",
+            "path": null,
+            "size": 57.2,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_300fec5653.jpg",
+            "hash": "thumbnail_Secondary_Banner_300fec5653",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Banner.jpg",
+            "path": null,
+            "size": 5.87,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_300fec5653",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 86.79,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_300fec5653.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T11:36:10.420Z",
+        "updatedAt": "2023-02-13T11:36:10.420Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1164,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 0
+    },
+    "page_configs": {
+      "count": 1
+    },
+    "platforms": {
+      "count": 1
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 9,
+    "page_name": "New Car Desktop Secondary Banner",
+    "createdAt": "2022-10-13T16:52:30.171Z",
+    "updatedAt": "2023-02-16T07:51:34.544Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "[]",
+    "select_cities": [],
+    "states": [],
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10212,
+        "name": "Secondary Banner.jpg",
+        "alternativeText": "Secondary Banner.jpg",
+        "caption": "Secondary Banner.jpg",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "small_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Banner.jpg",
+            "path": null,
+            "size": 32.51,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "medium_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Banner.jpg",
+            "path": null,
+            "size": 57.2,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "thumbnail_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Banner.jpg",
+            "path": null,
+            "size": 5.87,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_a713dde8d7",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 86.79,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_a713dde8d7.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T11:39:00.336Z",
+        "updatedAt": "2023-02-14T07:04:43.518Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1032,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  },
+  {
+    "id": 8,
+    "page_name": "New Car Msite Secondary Banner ",
+    "createdAt": "2022-10-13T16:52:30.153Z",
+    "updatedAt": "2023-02-16T07:51:40.801Z",
+    "publishedAt": null,
+    "page_content": null,
+    "video_position": null,
+    "video_url": null,
+    "title": null,
+    "description": null,
+    "impression_type": null,
+    "impression_src": null,
+    "schedule_publish": null,
+    "publish_end": null,
+    "publish_start": null,
+    "city_state": "\"\"",
+    "select_cities": null,
+    "states": null,
+    "excludecitystate": "\"\"",
+    "excluding_states": null,
+    "excluding_cities": null,
+    "banner_type": "secondary_banner",
+    "banner_image": [
+      {
+        "id": 10212,
+        "name": "Secondary Banner.jpg",
+        "alternativeText": "Secondary Banner.jpg",
+        "caption": "Secondary Banner.jpg",
+        "width": 1000,
+        "height": 1000,
+        "formats": {
+          "small": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/small_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "small_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "small_Secondary Banner.jpg",
+            "path": null,
+            "size": 32.51,
+            "width": 500,
+            "height": 500
+          },
+          "medium": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/medium_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "medium_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "medium_Secondary Banner.jpg",
+            "path": null,
+            "size": 57.2,
+            "width": 750,
+            "height": 750
+          },
+          "thumbnail": {
+            "ext": ".jpg",
+            "url": "https://images.carandbike.com/wms/thumbnail_Secondary_Banner_a713dde8d7.jpg",
+            "hash": "thumbnail_Secondary_Banner_a713dde8d7",
+            "mime": "image/jpeg",
+            "name": "thumbnail_Secondary Banner.jpg",
+            "path": null,
+            "size": 5.87,
+            "width": 156,
+            "height": 156
+          }
+        },
+        "hash": "Secondary_Banner_a713dde8d7",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 86.79,
+        "url": "https://images.carandbike.com/wms/Secondary_Banner_a713dde8d7.jpg",
+        "previewUrl": null,
+        "provider": "strapi-provider-upload-aws-s3-cdn-acl-enabled",
+        "provider_metadata": null,
+        "createdAt": "2023-02-13T11:39:00.336Z",
+        "updatedAt": "2023-02-14T07:04:43.518Z",
+        "folderPath": "/",
+        "folder": null
+      }
+    ],
+    "heading": [],
+    "link": [
+      {
+        "id": 1033,
+        "title": null,
+        "type": "link",
+        "slug": null,
+        "url": null,
+        "data_end_point": null,
+        "config_end_point": null,
+        "category_url": null
+      }
+    ],
+    "video": null,
+    "cnb_categories": {
+      "count": 1
+    },
+    "page_configs": {
+      "count": 0
+    },
+    "platforms": {
+      "count": 0
+    },
+    "ordering_value": null,
+    "createdBy": null,
+    "updatedBy": {
+      "id": 49,
+      "firstname": "Nirmiti",
+      "lastname": "Chopdekar",
+      "username": null
+    }
+  }
+]
